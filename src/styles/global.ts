@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     margin: 0 auto;
     max-width: 80rem;
-    padding: 2.5rem 1.2rem;
+    padding: 1.2rem;
     
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
